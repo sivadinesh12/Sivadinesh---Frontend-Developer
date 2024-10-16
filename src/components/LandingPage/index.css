@@ -1,0 +1,11 @@
+.landing-page-bg {
+  background-color: #00161d;
+  height: 100%;
+  width:100vW;
+}
+
+@media screen and (max-width: 480px) {
+  .landing-page-bg{
+    padding: 10px;
+  }
+}

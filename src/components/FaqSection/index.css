@@ -1,0 +1,14 @@
+.faq-bg{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    position:relative
+}
+
+.faq-bg > h1 {
+    color: #ffffff;
+}
+.faq-bg > img{
+    width: 500px;
+}

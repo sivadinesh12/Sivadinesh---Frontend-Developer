@@ -1,0 +1,43 @@
+.explore-bg {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.explore {
+  width: 960px;
+  max-width: 960px;
+  max-height: 382px;
+  height: 382px;
+  box-shadow: inset 0 0 10px #63f2ff;
+  border-radius: 20px;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.explore > h1 {
+  color: #ffffff;
+  font-size: 40px;
+  text-align: center;
+}
+
+.explore > p {
+  color: #b0faffb2;
+  font-size: 16px;
+  text-align: center;
+}
+
+.explore-btn {
+  align-self: center;
+  width: 108px;
+  height: 44px;
+  background-color: #cdfcff;
+  box-shadow: inset 0 0 8px #4cdcfc;
+  border: none;
+  border-radius: 12px;
+  color: #0b2a2d;
+  font-weight: 500;
+}
